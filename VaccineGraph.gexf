@@ -1,0 +1,1787 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2020-04-03">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="v_cluster" title="cluster" type="double"></attribute>
+      <attribute id="v_weight&lt;links&gt;" title="weight&lt;links&gt;" type="double"></attribute>
+      <attribute id="v_weight&lt;total_link_strength&gt;" title="weight&lt;total_link_strength&gt;" type="double"></attribute>
+      <attribute id="v_weight&lt;occurrences&gt;" title="weight&lt;occurrences&gt;" type="double"></attribute>
+      <attribute id="v_score&lt;avg._pub._year&gt;" title="score&lt;avg._pub._year&gt;" type="double"></attribute>
+      <attribute id="v_modularity class" title="Modularity Class" type="double"></attribute>
+      <attribute id="v_eigenvector centrality" title="Eigenvector Centrality" type="double"></attribute>
+      <attribute id="v_id" title="id" type="string"></attribute>
+    </attributes>
+    <attributes class="edge" mode="static">
+      <attribute id="e_edge label" title="Edge Label" type="string"></attribute>
+      <attribute id="e_id" title="id" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="n0" label="vitro">
+        <attvalues>
+          <attvalue for="v_cluster" value="1.0"></attvalue>
+          <attvalue for="v_weight&lt;links&gt;" value="2720.0"></attvalue>
+          <attvalue for="v_weight&lt;total_link_strength&gt;" value="12568.0"></attvalue>
+          <attvalue for="v_weight&lt;occurrences&gt;" value="683.0"></attvalue>
+          <attvalue for="v_score&lt;avg._pub._year&gt;" value="2008.3558"></attvalue>
+          <attvalue for="v_modularity class" value="2.0"></attvalue>
+          <attvalue for="v_eigenvector centrality" value="1.0"></attvalue>
+          <attvalue for="v_id" value="4895"></attvalue>
+        </attvalues>
+        <viz:size value="100.00001"></viz:size>
+        <viz:position x="-609.94543" y="320.01703"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="n1" label="symptom">
+        <attvalues>
+          <attvalue for="v_cluster" value="3.0"></attvalue>
+          <attvalue for="v_weight&lt;links&gt;" value="2831.0"></attvalue>
+          <attvalue for="v_weight&lt;total_link_strength&gt;" value="12824.0"></attvalue>
+          <attvalue for="v_weight&lt;occurrences&gt;" value="636.0"></attvalue>
+          <attvalue for="v_score&lt;avg._pub._year&gt;" value="2002.4858"></attvalue>
+          <attvalue for="v_modularity class" value="1.0"></attvalue>
+          <attvalue for="v_eigenvector centrality" value="0.830497191469957"></attvalue>
+          <attvalue for="v_id" value="4466"></attvalue>
+        </attvalues>
+        <viz:size value="83.6071"></viz:size>
+        <viz:position x="-55.041283" y="-1511.4866"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="n2" label="structure">
+        <attvalues>
+          <attvalue for="v_cluster" value="1.0"></attvalue>
+          <attvalue for="v_weight&lt;links&gt;" value="3101.0"></attvalue>
+          <attvalue for="v_weight&lt;total_link_strength&gt;" value="14652.0"></attvalue>
+          <attvalue for="v_weight&lt;occurrences&gt;" value="943.0"></attvalue>
+          <attvalue for="v_score&lt;avg._pub._year&gt;" value="2008.2906"></attvalue>
+          <attvalue for="v_modularity class" value="2.0"></attvalue>
+          <attvalue for="v_eigenvector centrality" value="0.810772520942439"></attvalue>
+          <attvalue for="v_id" value="4396"></attvalue>
+        </attvalues>
+        <viz:size value="81.69949"></viz:size>
+        <viz:position x="-178.94328" y="97.45344"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="n3" label="vivo">
+        <attvalues>
+          <attvalue for="v_cluster" value="1.0"></attvalue>
+          <attvalue for="v_weight&lt;links&gt;" value="1760.0"></attvalue>
+          <attvalue for="v_weight&lt;total_link_strength&gt;" value="4829.0"></attvalue>
+          <attvalue for="v_weight&lt;occurrences&gt;" value="250.0"></attvalue>
+          <attvalue for="v_score&lt;avg._pub._year&gt;" value="2009.056"></attvalue>
+          <attvalue for="v_modularity class" value="2.0"></attvalue>
+          <attvalue for="v_eigenvector centrality" value="0.724888262055114"></attvalue>
+          <attvalue for="v_id" value="4902"></attvalue>
+        </attvalues>
+        <viz:size value="73.39347"></viz:size>
+        <viz:position x="-465.8358" y="539.6713"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="n4" label="synthesis">
+        <attvalues>
+          <attvalue for="v_cluster" value="1.0"></attvalue>
+          <attvalue for="v_weight&lt;links&gt;" value="1832.0"></attvalue>
+          <attvalue for="v_weight&lt;total_link_strength&gt;" value="5642.0"></attvalue>
+          <attvalue for="v_weight&lt;occurrences&gt;" value="339.0"></attvalue>
+          <attvalue for="v_score&lt;avg._pub._year&gt;" value="2005.1652"></attvalue>
+          <attvalue for="v_modularity class" value="2.0"></attvalue>
+          <attvalue for="v_eigenvector centrality" value="0.5776378729405"></attvalue>
+          <attvalue for="v_id" value="4477"></attvalue>
+        </attvalues>
+        <viz:size value="59.152622"></viz:size>
+        <viz:position x="-384.72455" y="606.9031"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="n5" label="viral genome">
+        <attvalues>
+          <attvalue for="v_cluster" value="1.0"></attvalue>
+          <attvalue for="v_weight&lt;links&gt;" value="1277.0"></attvalue>
+          <attvalue for="v_weight&lt;total_link_strength&gt;" value="2739.0"></attvalue>
+          <attvalue for="v_weight&lt;occurrences&gt;" value="154.0"></attvalue>
+          <attvalue for="v_score&lt;avg._pub._year&gt;" value="2005.8247"></attvalue>
+          <attvalue for="v_modularity class" value="2.0"></attvalue>
+          <attvalue for="v_eigenvector centrality" value="0.563067615967381"></attvalue>
+          <attvalue for="v_id" value="4802"></attvalue>
+        </attvalues>
+        <viz:size value="57.743507"></viz:size>
+        <viz:position x="-795.02185" y="145.17487"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="n6" label="protein">
+        <attvalues>
+          <attvalue for="v_cluster" value="1.0"></attvalue>
+          <attvalue for="v_weight&lt;links&gt;" value="3643.0"></attvalue>
+          <attvalue for="v_weight&lt;total_link_strength&gt;" value="35991.0"></attvalue>
+          <attvalue for="v_weight&lt;occurrences&gt;" value="2000.0"></attvalue>
+          <attvalue for="v_score&lt;avg._pub._year&gt;" value="2007.196"></attvalue>
+          <attvalue for="v_modularity class" value="2.0"></attvalue>
+          <attvalue for="v_eigenvector centrality" value="0.556959559864133"></attvalue>
+          <attvalue for="v_id" value="3708"></attvalue>
+        </attvalues>
+        <viz:size value="57.15279"></viz:size>
+        <viz:position x="-546.1197" y="338.8976"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="n7" label="t cell">
+        <attvalues>
+          <attvalue for="v_cluster" value="1.0"></attvalue>
+          <attvalue for="v_weight&lt;links&gt;" value="1573.0"></attvalue>
+          <attvalue for="v_weight&lt;total_link_strength&gt;" value="5277.0"></attvalue>
+          <attvalue for="v_weight&lt;occurrences&gt;" value="279.0"></attvalue>
+          <attvalue for="v_score&lt;avg._pub._year&gt;" value="2007.1505"></attvalue>
+          <attvalue for="v_modularity class" value="2.0"></attvalue>
+          <attvalue for="v_eigenvector centrality" value="0.511581791078794"></attvalue>
+          <attvalue for="v_id" value="4485"></attvalue>
+        </attvalues>
+        <viz:size value="52.76422"></viz:size>
+        <viz:position x="-276.2455" y="99.16411"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="n8" label="patient">
+        <attvalues>
+          <attvalue for="v_cluster" value="3.0"></attvalue>
+          <attvalue for="v_weight&lt;links&gt;" value="4065.0"></attvalue>
+          <attvalue for="v_weight&lt;total_link_strength&gt;" value="49440.0"></attvalue>
+          <attvalue for="v_weight&lt;occurrences&gt;" value="2587.0"></attvalue>
+          <attvalue for="v_score&lt;avg._pub._year&gt;" value="2001.748"></attvalue>
+          <attvalue for="v_modularity class" value="1.0"></attvalue>
+          <attvalue for="v_eigenvector centrality" value="0.491898113222344"></attvalue>
+          <attvalue for="v_id" value="3381"></attvalue>
+        </attvalues>
+        <viz:size value="50.860584"></viz:size>
+        <viz:position x="25.192846" y="-1414.697"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="n9" label="signal">
+        <attvalues>
+          <attvalue for="v_cluster" value="1.0"></attvalue>
+          <attvalue for="v_weight&lt;links&gt;" value="1792.0"></attvalue>
+          <attvalue for="v_weight&lt;total_link_strength&gt;" value="4825.0"></attvalue>
+          <attvalue for="v_weight&lt;occurrences&gt;" value="277.0"></attvalue>
+          <attvalue for="v_score&lt;avg._pub._year&gt;" value="2007.4657"></attvalue>
+          <attvalue for="v_modularity class" value="2.0"></attvalue>
+          <attvalue for="v_eigenvector centrality" value="0.490329221192825"></attvalue>
+          <attvalue for="v_id" value="4214"></attvalue>
+        </attvalues>
+        <viz:size value="50.708855"></viz:size>
+        <viz:position x="-603.1894" y="183.79826"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="n10" label="production">
+        <attvalues>
+          <attvalue for="v_cluster" value="1.0"></attvalue>
+          <attvalue for="v_weight&lt;links&gt;" value="3161.0"></attvalue>
+          <attvalue for="v_weight&lt;total_link_strength&gt;" value="14562.0"></attvalue>
+          <attvalue for="v_weight&lt;occurrences&gt;" value="811.0"></attvalue>
+          <attvalue for="v_score&lt;avg._pub._year&gt;" value="2008.8249"></attvalue>
+          <attvalue for="v_modularity class" value="2.0"></attvalue>
+          <attvalue for="v_eigenvector centrality" value="0.489184870092006"></attvalue>
+          <attvalue for="v_id" value="3671"></attvalue>
+        </attvalues>
+        <viz:size value="50.59818"></viz:size>
+        <viz:position x="-294.02023" y="17.197624"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="n11" label="tnf">
+        <attvalues>
+          <attvalue for="v_cluster" value="1.0"></attvalue>
+          <attvalue for="v_weight&lt;links&gt;" value="1341.0"></attvalue>
+          <attvalue for="v_weight&lt;total_link_strength&gt;" value="4008.0"></attvalue>
+          <attvalue for="v_weight&lt;occurrences&gt;" value="179.0"></attvalue>
+          <attvalue for="v_score&lt;avg._pub._year&gt;" value="2008.7654"></attvalue>
+          <attvalue for="v_modularity class" value="2.0"></attvalue>
+          <attvalue for="v_eigenvector centrality" value="0.483070162371581"></attvalue>
+          <attvalue for="v_id" value="4586"></attvalue>
+        </attvalues>
+        <viz:size value="50.006817"></viz:size>
+        <viz:position x="-140.34177" y="214.53967"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="n12" label="receptor">
+        <attvalues>
+          <attvalue for="v_cluster" value="1.0"></attvalue>
+          <attvalue for="v_weight&lt;links&gt;" value="2537.0"></attvalue>
+          <attvalue for="v_weight&lt;total_link_strength&gt;" value="11724.0"></attvalue>
+          <attvalue for="v_weight&lt;occurrences&gt;" value="611.0"></attvalue>
+          <attvalue for="v_score&lt;avg._pub._year&gt;" value="2007.7234"></attvalue>
+          <attvalue for="v_modularity class" value="2.0"></attvalue>
+          <attvalue for="v_eigenvector centrality" value="0.469759785947415"></attvalue>
+          <attvalue for="v_id" value="3843"></attvalue>
+        </attvalues>
+        <viz:size value="48.719547"></viz:size>
+        <viz:position x="-275.72058" y="274.13663"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="n13" label="release">
+        <attvalues>
+          <attvalue for="v_cluster" value="1.0"></attvalue>
+          <attvalue for="v_weight&lt;links&gt;" value="1933.0"></attvalue>
+          <attvalue for="v_weight&lt;total_link_strength&gt;" value="5027.0"></attvalue>
+          <attvalue for="v_weight&lt;occurrences&gt;" value="277.0"></attvalue>
+          <attvalue for="v_score&lt;avg._pub._year&gt;" value="2007.4729"></attvalue>
+          <attvalue for="v_modularity class" value="2.0"></attvalue>
+          <attvalue for="v_eigenvector centrality" value="0.405648150188083"></attvalue>
+          <attvalue for="v_id" value="3889"></attvalue>
+        </attvalues>
+        <viz:size value="42.5192"></viz:size>
+        <viz:position x="2.3378937" y="44.833656"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="n14" label="vaccine candidate">
+        <attvalues>
+          <attvalue for="v_cluster" value="1.0"></attvalue>
+          <attvalue for="v_weight&lt;links&gt;" value="897.0"></attvalue>
+          <attvalue for="v_weight&lt;total_link_strength&gt;" value="1748.0"></attvalue>
+          <attvalue for="v_weight&lt;occurrences&gt;" value="98.0"></attvalue>
+          <attvalue for="v_score&lt;avg._pub._year&gt;" value="2011.2653"></attvalue>
+          <attvalue for="v_modularity class" value="2.0"></attvalue>
+          <attvalue for="v_eigenvector centrality" value="0.404384648818276"></attvalue>
+          <attvalue for="v_id" value="4734"></attvalue>
+        </attvalues>
+        <viz:size value="42.397007"></viz:size>
+        <viz:position x="-766.53394" y="-166.25746"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="n15" label="stimulation">
+        <attvalues>
+          <attvalue for="v_cluster" value="1.0"></attvalue>
+          <attvalue for="v_weight&lt;links&gt;" value="1253.0"></attvalue>
+          <attvalue for="v_weight&lt;total_link_strength&gt;" value="2950.0"></attvalue>
+          <attvalue for="v_weight&lt;occurrences&gt;" value="157.0"></attvalue>
+          <attvalue for="v_score&lt;avg._pub._year&gt;" value="2006.9363"></attvalue>
+          <attvalue for="v_modularity class" value="2.0"></attvalue>
+          <attvalue for="v_eigenvector centrality" value="0.386891951813238"></attvalue>
+          <attvalue for="v_id" value="4367"></attvalue>
+        </attvalues>
+        <viz:size value="40.705257"></viz:size>
+        <viz:position x="-158.67499" y="433.75195"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="n16" label="serum sample">
+        <attvalues>
+          <attvalue for="v_cluster" value="4.0"></attvalue>
+          <attvalue for="v_weight&lt;links&gt;" value="1225.0"></attvalue>
+          <attvalue for="v_weight&lt;total_link_strength&gt;" value="2668.0"></attvalue>
+          <attvalue for="v_weight&lt;occurrences&gt;" value="137.0"></attvalue>
+          <attvalue for="v_score&lt;avg._pub._year&gt;" value="2006.4964"></attvalue>
+          <attvalue for="v_modularity class" value="0.0"></attvalue>
+          <attvalue for="v_eigenvector centrality" value="0.383494289158917"></attvalue>
+          <attvalue for="v_id" value="4178"></attvalue>
+        </attvalues>
+        <viz:size value="40.376663"></viz:size>
+        <viz:position x="-936.7284" y="-872.43134"></viz:position>
+        <viz:color r="255" g="116" b="62"></viz:color>
+      </node>
+      <node id="n17" label="t lymphocyte">
+        <attvalues>
+          <attvalue for="v_cluster" value="1.0"></attvalue>
+          <attvalue for="v_weight&lt;links&gt;" value="915.0"></attvalue>
+          <attvalue for="v_weight&lt;total_link_strength&gt;" value="2133.0"></attvalue>
+          <attvalue for="v_weight&lt;occurrences&gt;" value="113.0"></attvalue>
+          <attvalue for="v_score&lt;avg._pub._year&gt;" value="2001.885"></attvalue>
+          <attvalue for="v_modularity class" value="2.0"></attvalue>
+          <attvalue for="v_eigenvector centrality" value="0.346642328335864"></attvalue>
+          <attvalue for="v_id" value="4494"></attvalue>
+        </attvalues>
+        <viz:size value="36.81264"></viz:size>
+        <viz:position x="-327.80176" y="-103.07262"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="n18" label="science">
+        <attvalues>
+          <attvalue for="v_cluster" value="2.0"></attvalue>
+          <attvalue for="v_weight&lt;links&gt;" value="1367.0"></attvalue>
+          <attvalue for="v_weight&lt;total_link_strength&gt;" value="3138.0"></attvalue>
+          <attvalue for="v_weight&lt;occurrences&gt;" value="183.0"></attvalue>
+          <attvalue for="v_score&lt;avg._pub._year&gt;" value="2003.4317"></attvalue>
+          <attvalue for="v_modularity class" value="1.0"></attvalue>
+          <attvalue for="v_eigenvector centrality" value="0.343308103986581"></attvalue>
+          <attvalue for="v_id" value="4097"></attvalue>
+        </attvalues>
+        <viz:size value="36.490185"></viz:size>
+        <viz:position x="965.1315" y="-992.04156"></viz:position>
+        <viz:color r="104" g="173" b="54"></viz:color>
+      </node>
+      <node id="n19" label="pathway">
+        <attvalues>
+          <attvalue for="v_cluster" value="1.0"></attvalue>
+          <attvalue for="v_weight&lt;links&gt;" value="2681.0"></attvalue>
+          <attvalue for="v_weight&lt;total_link_strength&gt;" value="12882.0"></attvalue>
+          <attvalue for="v_weight&lt;occurrences&gt;" value="695.0"></attvalue>
+          <attvalue for="v_score&lt;avg._pub._year&gt;" value="2010.4748"></attvalue>
+          <attvalue for="v_modularity class" value="2.0"></attvalue>
+          <attvalue for="v_eigenvector centrality" value="0.341778527968656"></attvalue>
+          <attvalue for="v_id" value="3380"></attvalue>
+        </attvalues>
+        <viz:size value="36.34226"></viz:size>
+        <viz:position x="-173.25928" y="381.60144"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="n20" label="vlp">
+        <attvalues>
+          <attvalue for="v_cluster" value="1.0"></attvalue>
+          <attvalue for="v_weight&lt;links&gt;" value="561.0"></attvalue>
+          <attvalue for="v_weight&lt;total_link_strength&gt;" value="1027.0"></attvalue>
+          <attvalue for="v_weight&lt;occurrences&gt;" value="58.0"></attvalue>
+          <attvalue for="v_score&lt;avg._pub._year&gt;" value="2011.0862"></attvalue>
+          <attvalue for="v_modularity class" value="2.0"></attvalue>
+          <attvalue for="v_eigenvector centrality" value="0.305326748216566"></attvalue>
+          <attvalue for="v_id" value="4906"></attvalue>
+        </attvalues>
+        <viz:size value="32.816948"></viz:size>
+        <viz:position x="-1054.6901" y="520.41504"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="n21" label="s protein">
+        <attvalues>
+          <attvalue for="v_cluster" value="1.0"></attvalue>
+          <attvalue for="v_weight&lt;links&gt;" value="1159.0"></attvalue>
+          <attvalue for="v_weight&lt;total_link_strength&gt;" value="3615.0"></attvalue>
+          <attvalue for="v_weight&lt;occurrences&gt;" value="171.0"></attvalue>
+          <attvalue for="v_score&lt;avg._pub._year&gt;" value="2006.5965"></attvalue>
+          <attvalue for="v_modularity class" value="2.0"></attvalue>
+          <attvalue for="v_eigenvector centrality" value="0.292549299721155"></attvalue>
+          <attvalue for="v_id" value="4055"></attvalue>
+        </attvalues>
+        <viz:size value="31.581217"></viz:size>
+        <viz:position x="-1017.54224" y="492.82025"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="n22" label="tumor necrosis factor">
+        <attvalues>
+          <attvalue for="v_cluster" value="1.0"></attvalue>
+          <attvalue for="v_weight&lt;links&gt;" value="631.0"></attvalue>
+          <attvalue for="v_weight&lt;total_link_strength&gt;" value="1252.0"></attvalue>
+          <attvalue for="v_weight&lt;occurrences&gt;" value="56.0"></attvalue>
+          <attvalue for="v_score&lt;avg._pub._year&gt;" value="2008.3214"></attvalue>
+          <attvalue for="v_modularity class" value="2.0"></attvalue>
+          <attvalue for="v_eigenvector centrality" value="0.285121740806598"></attvalue>
+          <attvalue for="v_id" value="4677"></attvalue>
+        </attvalues>
+        <viz:size value="30.862886"></viz:size>
+        <viz:position x="183.35045" y="111.7959"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="n23" label="peptide">
+        <attvalues>
+          <attvalue for="v_cluster" value="1.0"></attvalue>
+          <attvalue for="v_weight&lt;links&gt;" value="1937.0"></attvalue>
+          <attvalue for="v_weight&lt;total_link_strength&gt;" value="7365.0"></attvalue>
+          <attvalue for="v_weight&lt;occurrences&gt;" value="438.0"></attvalue>
+          <attvalue for="v_score&lt;avg._pub._year&gt;" value="2007.4795"></attvalue>
+          <attvalue for="v_modularity class" value="2.0"></attvalue>
+          <attvalue for="v_eigenvector centrality" value="0.276214429998799"></attvalue>
+          <attvalue for="v_id" value="3424"></attvalue>
+        </attvalues>
+        <viz:size value="30.001442"></viz:size>
+        <viz:position x="-376.81583" y="453.6173"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+      <node id="n24" label="mouse">
+        <attvalues>
+          <attvalue for="v_cluster" value="1.0"></attvalue>
+          <attvalue for="v_weight&lt;links&gt;" value="2535.0"></attvalue>
+          <attvalue for="v_weight&lt;total_link_strength&gt;" value="13539.0"></attvalue>
+          <attvalue for="v_weight&lt;occurrences&gt;" value="738.0"></attvalue>
+          <attvalue for="v_score&lt;avg._pub._year&gt;" value="2006.7398"></attvalue>
+          <attvalue for="v_modularity class" value="2.0"></attvalue>
+          <attvalue for="v_eigenvector centrality" value="0.241635410735797"></attvalue>
+          <attvalue for="v_id" value="2943"></attvalue>
+        </attvalues>
+        <viz:size value="26.657248"></viz:size>
+        <viz:position x="-468.0109" y="198.97267"></viz:position>
+        <viz:color r="210" g="124" b="206"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="n0" target="n3" weight="125.0">
+        <attvalues>
+          <attvalue for="e_id" value="1089355"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1" source="n0" target="n20" weight="4.0">
+        <attvalues>
+          <attvalue for="e_id" value="1089359"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="2" source="n1" target="n0" weight="13.0">
+        <attvalues>
+          <attvalue for="e_id" value="1077668"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="3" source="n1" target="n3" weight="3.0">
+        <attvalues>
+          <attvalue for="e_id" value="1077671"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4" source="n1" target="n4" weight="3.0">
+        <attvalues>
+          <attvalue for="e_id" value="1077450"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="5" source="n1" target="n5" weight="3.0">
+        <attvalues>
+          <attvalue for="e_id" value="1077625"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="6" source="n1" target="n7" weight="6.0">
+        <attvalues>
+          <attvalue for="e_id" value="1077455"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="7" source="n1" target="n11" weight="13.0">
+        <attvalues>
+          <attvalue for="e_id" value="1077509"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="8" source="n1" target="n14" weight="3.0">
+        <attvalues>
+          <attvalue for="e_id" value="1077591"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="9" source="n1" target="n17" weight="3.0">
+        <attvalues>
+          <attvalue for="e_id" value="1077459"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="10" source="n1" target="n22" weight="6.0">
+        <attvalues>
+          <attvalue for="e_id" value="1077560"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="14" source="n2" target="n0" weight="56.0">
+        <attvalues>
+          <attvalue for="e_id" value="1073368"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="15" source="n2" target="n1" weight="9.0">
+        <attvalues>
+          <attvalue for="e_id" value="1073077"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="16" source="n2" target="n3" weight="12.0">
+        <attvalues>
+          <attvalue for="e_id" value="1073373"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="17" source="n2" target="n4" weight="44.0">
+        <attvalues>
+          <attvalue for="e_id" value="1073080"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="18" source="n2" target="n5" weight="15.0">
+        <attvalues>
+          <attvalue for="e_id" value="1073299"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="19" source="n2" target="n7" weight="9.0">
+        <attvalues>
+          <attvalue for="e_id" value="1073086"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="20" source="n2" target="n11" weight="2.0">
+        <attvalues>
+          <attvalue for="e_id" value="1073152"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="21" source="n2" target="n14" weight="5.0">
+        <attvalues>
+          <attvalue for="e_id" value="1073252"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="22" source="n2" target="n17" weight="6.0">
+        <attvalues>
+          <attvalue for="e_id" value="1073091"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="23" source="n2" target="n20" weight="8.0">
+        <attvalues>
+          <attvalue for="e_id" value="1073377"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="30" source="n3" target="n20" weight="2.0">
+        <attvalues>
+          <attvalue for="e_id" value="1089434"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="31" source="n4" target="n0" weight="33.0">
+        <attvalues>
+          <attvalue for="e_id" value="1078205"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="32" source="n4" target="n3" weight="8.0">
+        <attvalues>
+          <attvalue for="e_id" value="1078211"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="33" source="n4" target="n5" weight="9.0">
+        <attvalues>
+          <attvalue for="e_id" value="1078160"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="34" source="n4" target="n7" weight="7.0">
+        <attvalues>
+          <attvalue for="e_id" value="1078039"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="35" source="n4" target="n11">
+        <attvalues>
+          <attvalue for="e_id" value="1078078"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="36" source="n4" target="n17" weight="3.0">
+        <attvalues>
+          <attvalue for="e_id" value="1078044"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="37" source="n4" target="n20">
+        <attvalues>
+          <attvalue for="e_id" value="1078213"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="38" source="n4" target="n22">
+        <attvalues>
+          <attvalue for="e_id" value="1078124"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="41" source="n5" target="n0" weight="8.0">
+        <attvalues>
+          <attvalue for="e_id" value="1087994"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="42" source="n5" target="n3" weight="2.0">
+        <attvalues>
+          <attvalue for="e_id" value="1087997"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="43" source="n5" target="n20" weight="5.0">
+        <attvalues>
+          <attvalue for="e_id" value="1087998"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="44" source="n6" target="n0" weight="170.0">
+        <attvalues>
+          <attvalue for="e_id" value="1011040"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="45" source="n6" target="n1" weight="21.0">
+        <attvalues>
+          <attvalue for="e_id" value="1010710"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="46" source="n6" target="n2" weight="277.0">
+        <attvalues>
+          <attvalue for="e_id" value="1010663"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="47" source="n6" target="n3" weight="65.0">
+        <attvalues>
+          <attvalue for="e_id" value="1011046"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="48" source="n6" target="n4" weight="86.0">
+        <attvalues>
+          <attvalue for="e_id" value="1010717"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="49" source="n6" target="n5" weight="43.0">
+        <attvalues>
+          <attvalue for="e_id" value="1010961"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="50" source="n6" target="n7" weight="51.0">
+        <attvalues>
+          <attvalue for="e_id" value="1010723"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="51" source="n6" target="n9" weight="79.0">
+        <attvalues>
+          <attvalue for="e_id" value="1010520"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="52" source="n6" target="n11" weight="44.0">
+        <attvalues>
+          <attvalue for="e_id" value="1010802"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="53" source="n6" target="n12" weight="148.0">
+        <attvalues>
+          <attvalue for="e_id" value="1010241"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="54" source="n6" target="n13" weight="64.0">
+        <attvalues>
+          <attvalue for="e_id" value="1010275"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="55" source="n6" target="n14" weight="32.0">
+        <attvalues>
+          <attvalue for="e_id" value="1010906"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="56" source="n6" target="n15" weight="31.0">
+        <attvalues>
+          <attvalue for="e_id" value="1010637"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="57" source="n6" target="n16" weight="31.0">
+        <attvalues>
+          <attvalue for="e_id" value="1010493"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="58" source="n6" target="n17" weight="21.0">
+        <attvalues>
+          <attvalue for="e_id" value="1010730"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="59" source="n6" target="n18" weight="13.0">
+        <attvalues>
+          <attvalue for="e_id" value="1010432"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="60" source="n6" target="n20" weight="27.0">
+        <attvalues>
+          <attvalue for="e_id" value="1011050"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="61" source="n6" target="n21" weight="96.0">
+        <attvalues>
+          <attvalue for="e_id" value="1010397"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="62" source="n6" target="n22" weight="18.0">
+        <attvalues>
+          <attvalue for="e_id" value="1010868"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="85" source="n7" target="n0" weight="26.0">
+        <attvalues>
+          <attvalue for="e_id" value="1078559"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="86" source="n7" target="n3" weight="17.0">
+        <attvalues>
+          <attvalue for="e_id" value="1078563"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="87" source="n7" target="n5">
+        <attvalues>
+          <attvalue for="e_id" value="1078530"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="88" source="n7" target="n11" weight="15.0">
+        <attvalues>
+          <attvalue for="e_id" value="1078455"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="89" source="n7" target="n14" weight="6.0">
+        <attvalues>
+          <attvalue for="e_id" value="1078509"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="90" source="n7" target="n17" weight="32.0">
+        <attvalues>
+          <attvalue for="e_id" value="1078425"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="91" source="n7" target="n22" weight="9.0">
+        <attvalues>
+          <attvalue for="e_id" value="1078494"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="100" source="n8" target="n0" weight="47.0">
+        <attvalues>
+          <attvalue for="e_id" value="963746"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="101" source="n8" target="n1" weight="328.0">
+        <attvalues>
+          <attvalue for="e_id" value="963408"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="102" source="n8" target="n2" weight="29.0">
+        <attvalues>
+          <attvalue for="e_id" value="963350"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="103" source="n8" target="n3" weight="18.0">
+        <attvalues>
+          <attvalue for="e_id" value="963753"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="104" source="n8" target="n4" weight="23.0">
+        <attvalues>
+          <attvalue for="e_id" value="963419"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="105" source="n8" target="n5" weight="13.0">
+        <attvalues>
+          <attvalue for="e_id" value="963683"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="106" source="n8" target="n6" weight="145.0">
+        <attvalues>
+          <attvalue for="e_id" value="962796"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="107" source="n8" target="n7" weight="51.0">
+        <attvalues>
+          <attvalue for="e_id" value="963425"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="108" source="n8" target="n9" weight="24.0">
+        <attvalues>
+          <attvalue for="e_id" value="963206"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="109" source="n8" target="n10" weight="58.0">
+        <attvalues>
+          <attvalue for="e_id" value="962766"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="110" source="n8" target="n11" weight="32.0">
+        <attvalues>
+          <attvalue for="e_id" value="963505"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="111" source="n8" target="n12" weight="66.0">
+        <attvalues>
+          <attvalue for="e_id" value="962903"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="112" source="n8" target="n13" weight="21.0">
+        <attvalues>
+          <attvalue for="e_id" value="962940"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="113" source="n8" target="n14" weight="3.0">
+        <attvalues>
+          <attvalue for="e_id" value="963629"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="114" source="n8" target="n15" weight="14.0">
+        <attvalues>
+          <attvalue for="e_id" value="963326"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="115" source="n8" target="n16" weight="41.0">
+        <attvalues>
+          <attvalue for="e_id" value="963175"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="116" source="n8" target="n17" weight="20.0">
+        <attvalues>
+          <attvalue for="e_id" value="963433"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="117" source="n8" target="n18" weight="27.0">
+        <attvalues>
+          <attvalue for="e_id" value="963109"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="118" source="n8" target="n20" weight="2.0">
+        <attvalues>
+          <attvalue for="e_id" value="963756"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="119" source="n8" target="n21" weight="18.0">
+        <attvalues>
+          <attvalue for="e_id" value="963077"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="120" source="n8" target="n22" weight="13.0">
+        <attvalues>
+          <attvalue for="e_id" value="963583"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="121" source="n8" target="n23" weight="35.0">
+        <attvalues>
+          <attvalue for="e_id" value="962576"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="145" source="n9" target="n0" weight="16.0">
+        <attvalues>
+          <attvalue for="e_id" value="1062922"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="146" source="n9" target="n1" weight="5.0">
+        <attvalues>
+          <attvalue for="e_id" value="1062746"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="147" source="n9" target="n2" weight="27.0">
+        <attvalues>
+          <attvalue for="e_id" value="1062720"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="148" source="n9" target="n3" weight="6.0">
+        <attvalues>
+          <attvalue for="e_id" value="1062924"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="149" source="n9" target="n4" weight="12.0">
+        <attvalues>
+          <attvalue for="e_id" value="1062749"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="150" source="n9" target="n5" weight="7.0">
+        <attvalues>
+          <attvalue for="e_id" value="1062885"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="151" source="n9" target="n7" weight="11.0">
+        <attvalues>
+          <attvalue for="e_id" value="1062753"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="152" source="n9" target="n11" weight="5.0">
+        <attvalues>
+          <attvalue for="e_id" value="1062807"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="153" source="n9" target="n14">
+        <attvalues>
+          <attvalue for="e_id" value="1062863"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="154" source="n9" target="n15" weight="8.0">
+        <attvalues>
+          <attvalue for="e_id" value="1062707"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="155" source="n9" target="n17" weight="5.0">
+        <attvalues>
+          <attvalue for="e_id" value="1062758"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="156" source="n9" target="n20">
+        <attvalues>
+          <attvalue for="e_id" value="1062925"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="157" source="n9" target="n22">
+        <attvalues>
+          <attvalue for="e_id" value="1062846"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="165" source="n10" target="n0" weight="67.0">
+        <attvalues>
+          <attvalue for="e_id" value="1005501"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="166" source="n10" target="n1" weight="27.0">
+        <attvalues>
+          <attvalue for="e_id" value="1005213"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="167" source="n10" target="n2" weight="43.0">
+        <attvalues>
+          <attvalue for="e_id" value="1005169"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="168" source="n10" target="n3" weight="28.0">
+        <attvalues>
+          <attvalue for="e_id" value="1005506"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="169" source="n10" target="n4" weight="33.0">
+        <attvalues>
+          <attvalue for="e_id" value="1005218"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="170" source="n10" target="n5" weight="10.0">
+        <attvalues>
+          <attvalue for="e_id" value="1005436"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="171" source="n10" target="n6" weight="192.0">
+        <attvalues>
+          <attvalue for="e_id" value="1004737"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="172" source="n10" target="n7" weight="43.0">
+        <attvalues>
+          <attvalue for="e_id" value="1005222"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="173" source="n10" target="n9" weight="18.0">
+        <attvalues>
+          <attvalue for="e_id" value="1005049"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="174" source="n10" target="n11" weight="59.0">
+        <attvalues>
+          <attvalue for="e_id" value="1005287"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="175" source="n10" target="n12" weight="86.0">
+        <attvalues>
+          <attvalue for="e_id" value="1004820"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="176" source="n10" target="n13" weight="46.0">
+        <attvalues>
+          <attvalue for="e_id" value="1004854"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="177" source="n10" target="n14" weight="13.0">
+        <attvalues>
+          <attvalue for="e_id" value="1005384"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="178" source="n10" target="n15" weight="34.0">
+        <attvalues>
+          <attvalue for="e_id" value="1005153"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="179" source="n10" target="n16" weight="8.0">
+        <attvalues>
+          <attvalue for="e_id" value="1005030"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="180" source="n10" target="n17" weight="18.0">
+        <attvalues>
+          <attvalue for="e_id" value="1005231"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="181" source="n10" target="n18" weight="7.0">
+        <attvalues>
+          <attvalue for="e_id" value="1004978"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="182" source="n10" target="n20" weight="13.0">
+        <attvalues>
+          <attvalue for="e_id" value="1005510"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="183" source="n10" target="n21" weight="9.0">
+        <attvalues>
+          <attvalue for="e_id" value="1004950"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="184" source="n10" target="n22" weight="18.0">
+        <attvalues>
+          <attvalue for="e_id" value="1005348"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="205" source="n11" target="n0" weight="28.0">
+        <attvalues>
+          <attvalue for="e_id" value="1082244"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="206" source="n11" target="n3" weight="12.0">
+        <attvalues>
+          <attvalue for="e_id" value="1082247"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="207" source="n11" target="n14" weight="2.0">
+        <attvalues>
+          <attvalue for="e_id" value="1082206"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="208" source="n11" target="n20">
+        <attvalues>
+          <attvalue for="e_id" value="1082251"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="209" source="n11" target="n22" weight="40.0">
+        <attvalues>
+          <attvalue for="e_id" value="1082192"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="213" source="n12" target="n0" weight="50.0">
+        <attvalues>
+          <attvalue for="e_id" value="1025806"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="214" source="n12" target="n1" weight="15.0">
+        <attvalues>
+          <attvalue for="e_id" value="1025561"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="215" source="n12" target="n2" weight="62.0">
+        <attvalues>
+          <attvalue for="e_id" value="1025524"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="216" source="n12" target="n3" weight="26.0">
+        <attvalues>
+          <attvalue for="e_id" value="1025809"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="217" source="n12" target="n4" weight="13.0">
+        <attvalues>
+          <attvalue for="e_id" value="1025566"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="218" source="n12" target="n5" weight="6.0">
+        <attvalues>
+          <attvalue for="e_id" value="1025744"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="219" source="n12" target="n7" weight="29.0">
+        <attvalues>
+          <attvalue for="e_id" value="1025570"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="220" source="n12" target="n9" weight="29.0">
+        <attvalues>
+          <attvalue for="e_id" value="1025431"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="221" source="n12" target="n11" weight="34.0">
+        <attvalues>
+          <attvalue for="e_id" value="1025625"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="222" source="n12" target="n13" weight="22.0">
+        <attvalues>
+          <attvalue for="e_id" value="1025272"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="223" source="n12" target="n14" weight="4.0">
+        <attvalues>
+          <attvalue for="e_id" value="1025706"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="224" source="n12" target="n15" weight="30.0">
+        <attvalues>
+          <attvalue for="e_id" value="1025505"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="225" source="n12" target="n16" weight="2.0">
+        <attvalues>
+          <attvalue for="e_id" value="1025416"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="226" source="n12" target="n17" weight="8.0">
+        <attvalues>
+          <attvalue for="e_id" value="1025578"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="227" source="n12" target="n18" weight="4.0">
+        <attvalues>
+          <attvalue for="e_id" value="1025377"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="228" source="n12" target="n20" weight="3.0">
+        <attvalues>
+          <attvalue for="e_id" value="1025813"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="229" source="n12" target="n21" weight="23.0">
+        <attvalues>
+          <attvalue for="e_id" value="1025355"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="230" source="n12" target="n22" weight="9.0">
+        <attvalues>
+          <attvalue for="e_id" value="1025677"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="248" source="n13" target="n0" weight="25.0">
+        <attvalues>
+          <attvalue for="e_id" value="1030998"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="249" source="n13" target="n1" weight="8.0">
+        <attvalues>
+          <attvalue for="e_id" value="1030812"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="250" source="n13" target="n2" weight="20.0">
+        <attvalues>
+          <attvalue for="e_id" value="1030779"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="251" source="n13" target="n3" weight="11.0">
+        <attvalues>
+          <attvalue for="e_id" value="1031003"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="252" source="n13" target="n4" weight="15.0">
+        <attvalues>
+          <attvalue for="e_id" value="1030817"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="253" source="n13" target="n5" weight="5.0">
+        <attvalues>
+          <attvalue for="e_id" value="1030952"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="254" source="n13" target="n7" weight="9.0">
+        <attvalues>
+          <attvalue for="e_id" value="1030820"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="255" source="n13" target="n9" weight="7.0">
+        <attvalues>
+          <attvalue for="e_id" value="1030712"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="256" source="n13" target="n11" weight="16.0">
+        <attvalues>
+          <attvalue for="e_id" value="1030857"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="257" source="n13" target="n14">
+        <attvalues>
+          <attvalue for="e_id" value="1030920"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="258" source="n13" target="n15" weight="6.0">
+        <attvalues>
+          <attvalue for="e_id" value="1030765"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="259" source="n13" target="n16">
+        <attvalues>
+          <attvalue for="e_id" value="1030702"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="260" source="n13" target="n17" weight="3.0">
+        <attvalues>
+          <attvalue for="e_id" value="1030823"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="261" source="n13" target="n18" weight="5.0">
+        <attvalues>
+          <attvalue for="e_id" value="1030672"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="262" source="n13" target="n20" weight="5.0">
+        <attvalues>
+          <attvalue for="e_id" value="1031007"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="263" source="n13" target="n21" weight="2.0">
+        <attvalues>
+          <attvalue for="e_id" value="1030657"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="264" source="n13" target="n22" weight="4.0">
+        <attvalues>
+          <attvalue for="e_id" value="1030899"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="278" source="n14" target="n0" weight="7.0">
+        <attvalues>
+          <attvalue for="e_id" value="1086490"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="279" source="n14" target="n3" weight="4.0">
+        <attvalues>
+          <attvalue for="e_id" value="1086492"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="280" source="n14" target="n5" weight="3.0">
+        <attvalues>
+          <attvalue for="e_id" value="1086472"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="281" source="n14" target="n20" weight="8.0">
+        <attvalues>
+          <attvalue for="e_id" value="1086494"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="285" source="n15" target="n0" weight="21.0">
+        <attvalues>
+          <attvalue for="e_id" value="1071791"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="286" source="n15" target="n1" weight="2.0">
+        <attvalues>
+          <attvalue for="e_id" value="1071662"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="287" source="n15" target="n2" weight="8.0">
+        <attvalues>
+          <attvalue for="e_id" value="1071646"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="288" source="n15" target="n3" weight="6.0">
+        <attvalues>
+          <attvalue for="e_id" value="1071795"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="289" source="n15" target="n4" weight="10.0">
+        <attvalues>
+          <attvalue for="e_id" value="1071665"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="290" source="n15" target="n7" weight="26.0">
+        <attvalues>
+          <attvalue for="e_id" value="1071667"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="291" source="n15" target="n11" weight="12.0">
+        <attvalues>
+          <attvalue for="e_id" value="1071702"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="292" source="n15" target="n14" weight="2.0">
+        <attvalues>
+          <attvalue for="e_id" value="1071745"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="293" source="n15" target="n17" weight="9.0">
+        <attvalues>
+          <attvalue for="e_id" value="1071674"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="294" source="n15" target="n20">
+        <attvalues>
+          <attvalue for="e_id" value="1071798"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="295" source="n15" target="n22" weight="6.0">
+        <attvalues>
+          <attvalue for="e_id" value="1071731"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="302" source="n16" target="n0" weight="4.0">
+        <attvalues>
+          <attvalue for="e_id" value="1060396"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="303" source="n16" target="n1" weight="12.0">
+        <attvalues>
+          <attvalue for="e_id" value="1060307"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="304" source="n16" target="n2">
+        <attvalues>
+          <attvalue for="e_id" value="1060285"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="305" source="n16" target="n4">
+        <attvalues>
+          <attvalue for="e_id" value="1060310"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="306" source="n16" target="n5">
+        <attvalues>
+          <attvalue for="e_id" value="1060381"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="307" source="n16" target="n9" weight="2.0">
+        <attvalues>
+          <attvalue for="e_id" value="1060244"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="308" source="n16" target="n11" weight="3.0">
+        <attvalues>
+          <attvalue for="e_id" value="1060336"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="309" source="n16" target="n14">
+        <attvalues>
+          <attvalue for="e_id" value="1060371"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="310" source="n16" target="n17">
+        <attvalues>
+          <attvalue for="e_id" value="1060315"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="311" source="n16" target="n22" weight="2.0">
+        <attvalues>
+          <attvalue for="e_id" value="1060354"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="313" source="n17" target="n0" weight="10.0">
+        <attvalues>
+          <attvalue for="e_id" value="1078900"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="314" source="n17" target="n3" weight="3.0">
+        <attvalues>
+          <attvalue for="e_id" value="1078902"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="315" source="n17" target="n5">
+        <attvalues>
+          <attvalue for="e_id" value="1078882"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="316" source="n17" target="n11" weight="5.0">
+        <attvalues>
+          <attvalue for="e_id" value="1078847"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="317" source="n17" target="n14" weight="2.0">
+        <attvalues>
+          <attvalue for="e_id" value="1078870"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="322" source="n18" target="n0" weight="6.0">
+        <attvalues>
+          <attvalue for="e_id" value="1053536"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="323" source="n18" target="n1" weight="7.0">
+        <attvalues>
+          <attvalue for="e_id" value="1053421"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="324" source="n18" target="n2" weight="16.0">
+        <attvalues>
+          <attvalue for="e_id" value="1053392"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="325" source="n18" target="n3" weight="2.0">
+        <attvalues>
+          <attvalue for="e_id" value="1053539"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="326" source="n18" target="n4" weight="8.0">
+        <attvalues>
+          <attvalue for="e_id" value="1053423"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="327" source="n18" target="n5">
+        <attvalues>
+          <attvalue for="e_id" value="1053521"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="328" source="n18" target="n7">
+        <attvalues>
+          <attvalue for="e_id" value="1053427"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="329" source="n18" target="n9" weight="3.0">
+        <attvalues>
+          <attvalue for="e_id" value="1053346"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="330" source="n18" target="n11">
+        <attvalues>
+          <attvalue for="e_id" value="1053459"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="331" source="n18" target="n14">
+        <attvalues>
+          <attvalue for="e_id" value="1053505"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="332" source="n18" target="n15" weight="3.0">
+        <attvalues>
+          <attvalue for="e_id" value="1053388"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="338" source="n19" target="n0" weight="61.0">
+        <attvalues>
+          <attvalue for="e_id" value="962491"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="339" source="n19" target="n1" weight="14.0">
+        <attvalues>
+          <attvalue for="e_id" value="962237"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="340" source="n19" target="n2" weight="57.0">
+        <attvalues>
+          <attvalue for="e_id" value="962203"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="341" source="n19" target="n3" weight="28.0">
+        <attvalues>
+          <attvalue for="e_id" value="962495"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="342" source="n19" target="n4" weight="29.0">
+        <attvalues>
+          <attvalue for="e_id" value="962243"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="343" source="n19" target="n5" weight="12.0">
+        <attvalues>
+          <attvalue for="e_id" value="962430"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="344" source="n19" target="n6" weight="226.0">
+        <attvalues>
+          <attvalue for="e_id" value="961838"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="345" source="n19" target="n7" weight="16.0">
+        <attvalues>
+          <attvalue for="e_id" value="962250"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="346" source="n19" target="n8" weight="59.0">
+        <attvalues>
+          <attvalue for="e_id" value="961641"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="347" source="n19" target="n9" weight="23.0">
+        <attvalues>
+          <attvalue for="e_id" value="962108"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="348" source="n19" target="n10" weight="105.0">
+        <attvalues>
+          <attvalue for="e_id" value="961810"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="349" source="n19" target="n11" weight="22.0">
+        <attvalues>
+          <attvalue for="e_id" value="962303"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="350" source="n19" target="n12" weight="96.0">
+        <attvalues>
+          <attvalue for="e_id" value="961910"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="351" source="n19" target="n13" weight="36.0">
+        <attvalues>
+          <attvalue for="e_id" value="961932"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="352" source="n19" target="n14" weight="2.0">
+        <attvalues>
+          <attvalue for="e_id" value="962387"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="353" source="n19" target="n15" weight="21.0">
+        <attvalues>
+          <attvalue for="e_id" value="962186"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="354" source="n19" target="n16" weight="2.0">
+        <attvalues>
+          <attvalue for="e_id" value="962091"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="355" source="n19" target="n17" weight="7.0">
+        <attvalues>
+          <attvalue for="e_id" value="962255"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="356" source="n19" target="n18" weight="8.0">
+        <attvalues>
+          <attvalue for="e_id" value="962047"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="357" source="n19" target="n20">
+        <attvalues>
+          <attvalue for="e_id" value="962498"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="358" source="n19" target="n22" weight="6.0">
+        <attvalues>
+          <attvalue for="e_id" value="962362"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="359" source="n19" target="n23" weight="22.0">
+        <attvalues>
+          <attvalue for="e_id" value="961666"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="380" source="n21" target="n0" weight="22.0">
+        <attvalues>
+          <attvalue for="e_id" value="1050307"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="381" source="n21" target="n1">
+        <attvalues>
+          <attvalue for="e_id" value="1050188"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="382" source="n21" target="n2" weight="11.0">
+        <attvalues>
+          <attvalue for="e_id" value="1050170"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="383" source="n21" target="n3" weight="6.0">
+        <attvalues>
+          <attvalue for="e_id" value="1050309"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="384" source="n21" target="n4" weight="6.0">
+        <attvalues>
+          <attvalue for="e_id" value="1050192"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="385" source="n21" target="n5">
+        <attvalues>
+          <attvalue for="e_id" value="1050274"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="386" source="n21" target="n7" weight="6.0">
+        <attvalues>
+          <attvalue for="e_id" value="1050195"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="387" source="n21" target="n9" weight="3.0">
+        <attvalues>
+          <attvalue for="e_id" value="1050123"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="388" source="n21" target="n11" weight="2.0">
+        <attvalues>
+          <attvalue for="e_id" value="1050221"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="389" source="n21" target="n14" weight="6.0">
+        <attvalues>
+          <attvalue for="e_id" value="1050252"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="390" source="n21" target="n15" weight="4.0">
+        <attvalues>
+          <attvalue for="e_id" value="1050163"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="391" source="n21" target="n16" weight="3.0">
+        <attvalues>
+          <attvalue for="e_id" value="1050117"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="392" source="n21" target="n17" weight="3.0">
+        <attvalues>
+          <attvalue for="e_id" value="1050198"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="393" source="n21" target="n20" weight="5.0">
+        <attvalues>
+          <attvalue for="e_id" value="1050311"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="400" source="n22" target="n0" weight="11.0">
+        <attvalues>
+          <attvalue for="e_id" value="1085327"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="401" source="n22" target="n3" weight="2.0">
+        <attvalues>
+          <attvalue for="e_id" value="1085328"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="402" source="n23" target="n0" weight="39.0">
+        <attvalues>
+          <attvalue for="e_id" value="970454"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="403" source="n23" target="n1" weight="3.0">
+        <attvalues>
+          <attvalue for="e_id" value="970277"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="404" source="n23" target="n2" weight="63.0">
+        <attvalues>
+          <attvalue for="e_id" value="970247"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="405" source="n23" target="n3" weight="10.0">
+        <attvalues>
+          <attvalue for="e_id" value="970458"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="406" source="n23" target="n4" weight="13.0">
+        <attvalues>
+          <attvalue for="e_id" value="970283"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="407" source="n23" target="n5" weight="4.0">
+        <attvalues>
+          <attvalue for="e_id" value="970418"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="408" source="n23" target="n6" weight="154.0">
+        <attvalues>
+          <attvalue for="e_id" value="969960"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="409" source="n23" target="n7" weight="38.0">
+        <attvalues>
+          <attvalue for="e_id" value="970286"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="410" source="n23" target="n9" weight="14.0">
+        <attvalues>
+          <attvalue for="e_id" value="970168"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="411" source="n23" target="n10" weight="38.0">
+        <attvalues>
+          <attvalue for="e_id" value="969938"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="412" source="n23" target="n11" weight="5.0">
+        <attvalues>
+          <attvalue for="e_id" value="970333"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="413" source="n23" target="n12" weight="46.0">
+        <attvalues>
+          <attvalue for="e_id" value="970021"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="414" source="n23" target="n13" weight="9.0">
+        <attvalues>
+          <attvalue for="e_id" value="970036"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="415" source="n23" target="n14" weight="9.0">
+        <attvalues>
+          <attvalue for="e_id" value="970392"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="416" source="n23" target="n15" weight="13.0">
+        <attvalues>
+          <attvalue for="e_id" value="970229"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="417" source="n23" target="n16" weight="2.0">
+        <attvalues>
+          <attvalue for="e_id" value="970158"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="418" source="n23" target="n17" weight="21.0">
+        <attvalues>
+          <attvalue for="e_id" value="970293"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="419" source="n23" target="n18" weight="4.0">
+        <attvalues>
+          <attvalue for="e_id" value="970122"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="420" source="n23" target="n20" weight="2.0">
+        <attvalues>
+          <attvalue for="e_id" value="970460"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="421" source="n23" target="n21" weight="21.0">
+        <attvalues>
+          <attvalue for="e_id" value="970097"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="422" source="n23" target="n22">
+        <attvalues>
+          <attvalue for="e_id" value="970374"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="442" source="n24" target="n0" weight="94.0">
+        <attvalues>
+          <attvalue for="e_id" value="899258"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="443" source="n24" target="n1" weight="14.0">
+        <attvalues>
+          <attvalue for="e_id" value="899001"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="444" source="n24" target="n2" weight="32.0">
+        <attvalues>
+          <attvalue for="e_id" value="898967"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="445" source="n24" target="n3" weight="67.0">
+        <attvalues>
+          <attvalue for="e_id" value="899264"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="446" source="n24" target="n4" weight="14.0">
+        <attvalues>
+          <attvalue for="e_id" value="899007"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="447" source="n24" target="n5" weight="5.0">
+        <attvalues>
+          <attvalue for="e_id" value="899198"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="448" source="n24" target="n6" weight="191.0">
+        <attvalues>
+          <attvalue for="e_id" value="898608"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="449" source="n24" target="n7" weight="76.0">
+        <attvalues>
+          <attvalue for="e_id" value="899012"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="450" source="n24" target="n8" weight="55.0">
+        <attvalues>
+          <attvalue for="e_id" value="898420"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="451" source="n24" target="n9" weight="18.0">
+        <attvalues>
+          <attvalue for="e_id" value="898876"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="452" source="n24" target="n10" weight="90.0">
+        <attvalues>
+          <attvalue for="e_id" value="898586"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="453" source="n24" target="n11" weight="47.0">
+        <attvalues>
+          <attvalue for="e_id" value="899077"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="454" source="n24" target="n12" weight="82.0">
+        <attvalues>
+          <attvalue for="e_id" value="898676"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="455" source="n24" target="n13" weight="21.0">
+        <attvalues>
+          <attvalue for="e_id" value="898699"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="456" source="n24" target="n14" weight="22.0">
+        <attvalues>
+          <attvalue for="e_id" value="899154"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="457" source="n24" target="n15" weight="17.0">
+        <attvalues>
+          <attvalue for="e_id" value="898950"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="458" source="n24" target="n16" weight="4.0">
+        <attvalues>
+          <attvalue for="e_id" value="898854"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="459" source="n24" target="n17" weight="23.0">
+        <attvalues>
+          <attvalue for="e_id" value="899021"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="460" source="n24" target="n19" weight="56.0">
+        <attvalues>
+          <attvalue for="e_id" value="898419"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="461" source="n24" target="n20" weight="13.0">
+        <attvalues>
+          <attvalue for="e_id" value="899268"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="462" source="n24" target="n21" weight="30.0">
+        <attvalues>
+          <attvalue for="e_id" value="898784"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="463" source="n24" target="n22" weight="10.0">
+        <attvalues>
+          <attvalue for="e_id" value="899125"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="464" source="n24" target="n23" weight="49.0">
+        <attvalues>
+          <attvalue for="e_id" value="898443"></attvalue>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
