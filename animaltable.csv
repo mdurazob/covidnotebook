@@ -1,0 +1,29 @@
+,AdultMice,GuineaPig,Hamster,NonhumanPrimates
+Filoviruses,,,,
+Ebola virus,Yes (adapted virus),Yes (adapted virus),Yes (adapted virus),"Cynomolgus and Rhesus macaques, Marmosets, Baboons, African Greens"
+(Ebola hemorrhagic fever),,,,
+Marburg virus,Yes (adapted virus),Yes (adapted virus),N.D.,"Cynomolgus and Rhesus macaques, Marmosets, Baboons, African Greens"
+(Marburg hemorrhagic fever),,,,
+Arenaviruses,,,,
+Lassa virus,Yes (IFNAR KO),Yes (inbred),N.D.,"Cynomolgus and Rhesus macaques, Marmosets"
+(Lassa fever),,,,
+Lujo virus,N.D.,Yes (inbred),N.D.,N.D.
+Junin virus,N.D.,Yes,N.D.,"Rhesus macaques, Marmosets"
+(Argentine hemorrhagic fever),,,,
+Guanarito virus,N.D.,Yes,N.D.,N.D.
+(Venezuelan hemorrhagic fever),,,,
+Machupo virus,Yes (STAT-1 KO),Yes,N.D.,"Cynomolgus and Rhesus macaques, African Greens"
+(Bolivian hemorrhagic Fever),,,,
+Sabia virus (Brazilian hemorrhagic fever),N.D.,N.D.,N.D.,N.D.
+Chapare virus,N.D.,N.D.,N.D.,N.D.
+Bunyaviruses,,,,
+CCHFV (Crimean Congo hemorrhagic fever),Yes (IFNAR/STAT-1 KO),N.D.,N.D.,N.D.
+SFTSV,Yes,N.D.,N.D.,N.D.
+(Severe Fever with Thromocytopenia Syndrome),,,,
+Andes virus,N.D.,N.D.,Yes,N.D.
+(Hantavirus pulmonary syndrome),,,,
+Paramyxoviruses,,,,
+Nipah virus,N.D.,Yes,Yes,African Greens
+(Nipah disease),,,,
+Hendra virus,N.D.,Yes,Yes,African Greens
+(Hendra disease),,,,
